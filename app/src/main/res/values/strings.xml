@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guess the number</string>
+    <string name="enter_number_hint">Enter number from 0 to 100</string>
+    <string name="enter_value_button">Try to guess (^)</string>
+    <string name="reset_number_button">Reset number (&lt;)</string>
+    <string name="reset_number_toast">Number was reset</string>
+    <string name="less">Secret number is less</string>
+    <string name="more">Secret number is greater</string>
+    <string name="congrats">You are right! It was</string>
+    <string name="empty_string">The string is empty.</string>
+    <string name="bound_fmt">The number should be from 0 to</string>
+    <string name="unknown">Unknown gesture</string>
+</resources> 

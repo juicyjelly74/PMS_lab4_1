@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Отгадай число</string>
+    <string name="enter_number_hint">Введите число от 0 до 100</string>
+    <string name="enter_value_button">Я ввел! (^)</string>
+    <string name="reset_number_button">Другое число (&lt;)</string>
+    <string name="reset_number_toast">Число было перезагадано</string>
+    <string name="less">Загаданное число меньше</string>
+    <string name="more">Загаданное число больше</string>
+    <string name="congrats">Вы отгадали! Это было</string>
+    <string name="empty_string">Вы ничего не ввели.</string>
+    <string name="bound_fmt">Число должно быть от 0 до</string>
+    <string name="unknown">Жест неизвестен</string>
+</resources>
